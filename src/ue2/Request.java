@@ -212,7 +212,6 @@ public class Request {
     }
 
     public static void printArray(ArrayList<String[]> a) {
-
         if(aGET!=null){
             System.out.println("aGET: "+aGET);
             if(aGET.trim().equals("")){

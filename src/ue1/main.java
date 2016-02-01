@@ -47,10 +47,7 @@ public class main {
                 exit=true;
                 System.out.println("Ende");
             }
-
-
         }
-
     }
 
     public static void namenSuche(){
@@ -182,3 +179,4 @@ public class main {
         tel="";
     }
 }
+
